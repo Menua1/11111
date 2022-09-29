@@ -1,0 +1,15 @@
+D:\git seminar\лекция C#\happybd\obj\Debug\net6.0\happybd.csproj.AssemblyReference.cache
+D:\git seminar\лекция C#\happybd\obj\Debug\net6.0\happybd.GeneratedMSBuildEditorConfig.editorconfig
+D:\git seminar\лекция C#\happybd\obj\Debug\net6.0\happybd.AssemblyInfoInputs.cache
+D:\git seminar\лекция C#\happybd\obj\Debug\net6.0\happybd.AssemblyInfo.cs
+D:\git seminar\лекция C#\happybd\obj\Debug\net6.0\happybd.csproj.CoreCompileInputs.cache
+D:\git seminar\лекция C#\happybd\bin\Debug\net6.0\happybd.exe
+D:\git seminar\лекция C#\happybd\bin\Debug\net6.0\happybd.deps.json
+D:\git seminar\лекция C#\happybd\bin\Debug\net6.0\happybd.runtimeconfig.json
+D:\git seminar\лекция C#\happybd\bin\Debug\net6.0\happybd.dll
+D:\git seminar\лекция C#\happybd\bin\Debug\net6.0\happybd.pdb
+D:\git seminar\лекция C#\happybd\obj\Debug\net6.0\happybd.dll
+D:\git seminar\лекция C#\happybd\obj\Debug\net6.0\refint\happybd.dll
+D:\git seminar\лекция C#\happybd\obj\Debug\net6.0\happybd.pdb
+D:\git seminar\лекция C#\happybd\obj\Debug\net6.0\happybd.genruntimeconfig.cache
+D:\git seminar\лекция C#\happybd\obj\Debug\net6.0\ref\happybd.dll
