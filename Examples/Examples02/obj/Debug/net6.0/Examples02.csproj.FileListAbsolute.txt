@@ -1,0 +1,15 @@
+D:\git seminar\лекция C#\Examples\Examples02\bin\Debug\net6.0\Examples02.exe
+D:\git seminar\лекция C#\Examples\Examples02\bin\Debug\net6.0\Examples02.deps.json
+D:\git seminar\лекция C#\Examples\Examples02\bin\Debug\net6.0\Examples02.runtimeconfig.json
+D:\git seminar\лекция C#\Examples\Examples02\bin\Debug\net6.0\Examples02.dll
+D:\git seminar\лекция C#\Examples\Examples02\bin\Debug\net6.0\Examples02.pdb
+D:\git seminar\лекция C#\Examples\Examples02\obj\Debug\net6.0\Examples02.csproj.AssemblyReference.cache
+D:\git seminar\лекция C#\Examples\Examples02\obj\Debug\net6.0\Examples02.GeneratedMSBuildEditorConfig.editorconfig
+D:\git seminar\лекция C#\Examples\Examples02\obj\Debug\net6.0\Examples02.AssemblyInfoInputs.cache
+D:\git seminar\лекция C#\Examples\Examples02\obj\Debug\net6.0\Examples02.AssemblyInfo.cs
+D:\git seminar\лекция C#\Examples\Examples02\obj\Debug\net6.0\Examples02.csproj.CoreCompileInputs.cache
+D:\git seminar\лекция C#\Examples\Examples02\obj\Debug\net6.0\Examples02.dll
+D:\git seminar\лекция C#\Examples\Examples02\obj\Debug\net6.0\refint\Examples02.dll
+D:\git seminar\лекция C#\Examples\Examples02\obj\Debug\net6.0\Examples02.pdb
+D:\git seminar\лекция C#\Examples\Examples02\obj\Debug\net6.0\Examples02.genruntimeconfig.cache
+D:\git seminar\лекция C#\Examples\Examples02\obj\Debug\net6.0\ref\Examples02.dll
